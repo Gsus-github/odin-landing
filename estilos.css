@@ -1,0 +1,47 @@
+nav {
+    background: #1F2937;
+}
+
+nav a{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.logo_text{
+    font-size: 24px;
+    color: #f9faf8;
+}
+footer{
+    background: #1F2937;
+}
+
+.main{
+    background: #1f2937;
+
+}
+
+.main .main_text{
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.main .secondary_text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.call_to_action{
+    background: white;
+}
+
+.boton{
+    background-color: #3882f6;
+}
+
+.quote{
+    background: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
